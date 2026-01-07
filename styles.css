@@ -101,3 +101,31 @@ header{
     border-radius: 5px;
     color: #FD6E0A;
 }
+
+/* about me */
+#about-us{
+    width: 1140px;
+    height: 550px;
+    background-color: #FFF8F3;
+    margin: 100px auto;
+    text-align: center;
+    padding: 150px;
+}
+
+#about-us h1{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+#about-us p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+}
+#about-us table{
+    display: flex;
+    justify-content: space-around;
+}
+#about-us table th,td{
+    padding: 0 20px;
+
+}
